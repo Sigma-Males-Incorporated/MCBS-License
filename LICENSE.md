@@ -21,10 +21,11 @@ as being Memory Chad Blazing Safe ("MCBS"):
 - Any assembly language (including but not limited to x86, x86-64, ARM, WASM etc.)
 - C
 - C++
-- Rust
+- Rust (https://github.com/rust-lang/rust)
 - FORTRAN
 - Pascal
-- Perl
+- Perl (https://github.com/Perl/perl5)
+- V (https://github.com/vlang/v)
 
 All software packages written under the MCBS License must be distributed
 with a copy of the License, and a copy of the License must be included in

@@ -1,8 +1,8 @@
-# Memory Chad Blazing Safe License v1.0.0
+# Memory Chad Blazing Safe License v1.0.1
 
 Used by \<authors> on \<DD MM YYYY>
 
-Written by **Sigma Males Incorporated** (https://github.com/Sigma-Males-Incorporated/) on **November 10th, 2022**. The terms of this License were last updated **November 10th, 2022**
+Written by **Sigma Males Incorporated** (https://github.com/Sigma-Males-Incorporated/) on **November 10th, 2022**. The terms of this License were last updated **November 14th, 2022**
 
 ---
 

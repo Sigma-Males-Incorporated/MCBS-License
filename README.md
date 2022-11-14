@@ -3,7 +3,7 @@ Memory Chad Blazing Safe license
 
 ## Summary
 
-* Projects must be written in a form of Machine Code, ASM, C, C++, Rust, FORTRAN, Pascal, or Perl.
+* Projects must be written in a form of Machine Code, ASM, C, C++, Rust, FORTRAN, Pascal, V or Perl.
 * Projects must have a copy of the license in the source code.
 * Redistributions must be under the same license terms as the original software.
 * Redistributions must mention the original author and date of the original release.
